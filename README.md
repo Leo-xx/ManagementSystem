@@ -1,6 +1,10 @@
 # 通用后台管理系统
 ## Vue 3 + Vite + Vue-router + pinia + element-plus + axios + less
-## 部分数据使用本地mock 部分使用fastmock 在线模拟
+### 部分数据使用本地mock 部分使用fastmock 在线模拟
+### 根据不同用户返回展示不同的菜单栏
+### 管理员账号admin 密码同样  普通用户 xiaoxiao 
+### 做了路由守卫和localstorage本地存储
+### 有用到js-cookie
 
 
 ## Recommended IDE Setup
